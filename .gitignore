@@ -1,0 +1,9 @@
+*.DS_Store
+*.pyc
+*.pc
+*.egg-info
+build
+dist
+install
+.idea
+**__pycache__
